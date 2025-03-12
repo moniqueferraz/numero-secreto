@@ -80,6 +80,6 @@ function reiniciarJogo(){
 }
 
 function exibirMensagemInicial(){
-    exibirTextoNaTela('h1', "Jogo do Número Secreto");
+    exibirTextoNaTela('h1', "Jogo do Número Secreto 2.0");
     exibirTextoNaTela('p', "Escolha um número entre 1 e 10");
 }
