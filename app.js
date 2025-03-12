@@ -80,6 +80,11 @@ function reiniciarJogo(){
 }
 
 function exibirMensagemInicial(){
+<<<<<<< HEAD
     exibirTextoNaTela('h1', "Jogo do Número Secreto 2.0");
     exibirTextoNaTela('p', "Escolha um número entre 1 e 50");
+=======
+    exibirTextoNaTela('h1', "Jogo do Número Secreto");
+    exibirTextoNaTela('p', "Escolha um número entre 1 e 10");
+>>>>>>> parent of e46b0e7 (versionamento teste)
 }
